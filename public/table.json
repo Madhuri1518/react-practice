@@ -1,0 +1,5 @@
+[
+    { "name": "Table1", "cost": 123, "items": 2 },
+    { "name": "Table2", "cost": 123, "items": 2 },
+    { "name": "Table3", "cost": 123, "items": 2 }
+]
