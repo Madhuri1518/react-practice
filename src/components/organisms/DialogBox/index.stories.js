@@ -2,7 +2,7 @@ import React from 'react';
 import DialogBox from '.';
 
 export default {
-  title: 'DialogBox'
+  title: 'Organisms/DialogBox'
    };
 
 export const dialogBox = () => {

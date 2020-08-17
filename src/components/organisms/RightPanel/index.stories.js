@@ -2,7 +2,7 @@ import React from 'react';
 import RightPanel from '.';
 
 export default {
-  title: 'RightPanel'
+  title: 'Organisms/RightPanel'
    };
 
 export const rightPanel = () => {

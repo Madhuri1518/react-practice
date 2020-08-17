@@ -4,7 +4,7 @@ import { withKnobs, text, radios } from "@storybook/addon-knobs";
 
 
 export default {
-  title: 'SearchBox',
+  title: 'Molecules/SearchBox',
   decorators: [withKnobs],
    };
 

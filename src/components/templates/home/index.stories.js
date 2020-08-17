@@ -5,7 +5,7 @@ import VerticalLine from '../../atoms/VerticalLine';
 import HomeTemplate from '.'
 
 export default {
-  title: 'HomeTemplate'
+  title: 'Templates/HomeTemplate'
    };
 
 export const homeTemplate = () => {

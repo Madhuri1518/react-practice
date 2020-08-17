@@ -3,7 +3,7 @@ import MenuCardList from ".";
 import { withKnobs } from "@storybook/addon-knobs";
 
 export default {
-  title: "MenuCardList",
+  title: "Molecules/CardList/MenuCardList",
   decorators: [withKnobs],
 };
 

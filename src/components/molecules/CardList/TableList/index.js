@@ -49,7 +49,7 @@ export default function TableList(props) {
     props.changeTableData(props.list);
   }
 
-  const [dialogOpen, setDialogOpen] = React.useState(true);
+  const [dialogOpen, setDialogOpen] = React.useState(false);
 
   const handleClickOpen = () => {
     setDialogOpen(true);

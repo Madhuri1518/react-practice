@@ -3,7 +3,7 @@ import TableCardList from ".";
 import { withKnobs } from "@storybook/addon-knobs";
 
 export default {
-  title: "TableCardList",
+  title: "Molecules/CardList/TableCardList",
   decorators: [withKnobs],
 };
 

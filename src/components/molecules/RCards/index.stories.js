@@ -4,7 +4,7 @@ import { withKnobs, select, number } from "@storybook/addon-knobs";
 
 
 export default {
-  title: 'Card',
+  title: 'Molecules/Card',
   decorators: [withKnobs],
 };
 
